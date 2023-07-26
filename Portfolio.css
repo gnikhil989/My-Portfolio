@@ -1,0 +1,135 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+}
+
+
+nav {
+    background: black;
+    display: flex;
+    width: 100%;
+    margin: auto;
+    padding: 10px 0;
+    align-items: center;
+    justify-content: space-between;
+}
+
+nav ul li {
+    display: inline-block;
+    list-style: none;
+    margin: 10px 20px;
+}
+
+nav ul li a {
+    text-decoration: none;
+    color: aqua;
+    font-weight: bold;
+}
+
+nav ul li a:hover {
+    color: blue;
+}
+
+.Details {
+    font-style: italic;
+    padding-top: 100px;
+    padding-left: 10px;
+    font-size: 20px;
+    background-image: url(./htmlcssjs.jpeg);
+    background-size: cover;
+}
+
+.Details p {
+    padding-left: 60px;
+    font-size: larger;
+}
+
+.Hello {
+    line-height: 15px;
+}
+
+.d {
+    background-color: plum;
+    margin-left: 350px;
+    text-align: center;
+    padding-top: 30px;
+    font-size: 40px;
+}
+
+.e {
+    margin-left: 350px;
+    margin-top: 30px;
+}
+
+#pro {
+    margin-left: 70px;
+    margin-bottom: 25px;
+}
+
+#para {
+    margin-left: 700px;
+    position: absolute;
+    bottom: 5px;
+    top: 950px;
+}
+
+#para h3 {
+    font-style: italic;
+    text-decoration: underline;
+}
+
+#para1 {
+    margin-left: 350px;
+    margin-top: 120px;
+}
+
+#para1 h3 {
+    font-style: italic;
+    text-decoration: underline;
+}
+
+#img1 {
+    margin-left: 350px;
+    position: absolute;
+    bottom: 3px;
+    top: 1150px;
+}
+
+#prof1 {
+    margin-bottom: 18px;
+    margin-left: 60px;
+}
+
+#prof {
+    margin-left: 80px;
+
+}
+
+.bbb {
+    background-color: palevioletred;
+    margin-left: 350px;
+    margin-top: 70px;
+    text-align: center;
+    padding-top: 30px;
+    font-size: 40px;
+}
+
+#para3 p {
+    text-align: center;
+    margin-top: 50px;
+    font-size: 50px;
+
+}
+
+.footer {
+    font-size: large;
+    text-align: center;
+    padding-top: 60px;
+
+}
+
+
+
+
+
